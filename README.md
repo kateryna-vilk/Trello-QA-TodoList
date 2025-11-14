@@ -1,6 +1,6 @@
 # Trello QA Management Portfolio (To-Do List App)
 
-This portfolio project demonstrates using Trello for a complete QA process, including Test Management and Bug Tracking.
+This project demonstrates using Trello for a complete QA process, including Test Management and Bug Tracking.
 
 The application under test was this simple To-Do List web app: https://todolist.james.am/#/
 
